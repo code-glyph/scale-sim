@@ -1,0 +1,2 @@
+config,Total Cycles,Stall Cycles,Overall Util %,Mapping Efficiency %,Compute Util %
+32_32_os_5x5,19379574.0,0.0,32.372836424690455,39.70351282945206,32.37271962130818

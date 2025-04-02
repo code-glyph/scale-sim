@@ -1,0 +1,2 @@
+config,Total Cycles,Stall Cycles,Overall Util %,Mapping Efficiency %,Compute Util %
+256_256_ws,1136824.0,0.0,14.616405713050465,23.857074606007544,13.26805713552312
